@@ -49,15 +49,20 @@ Referencia:
 
 Elementos de navegacion:
 1. Input Search GitHub : Se encuentra a un costado derecho del logotipo de GitHub y es de navegacion Global, ya que puedes acceder a las diferentes opciones que te brinda el site.
-![Search GitHub.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Search GitHub.png)
+
+![Search_GitHub.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Search_GitHub.png)
 2. Botones Pull requests, Issuees, Marketplace y Explore: Se encuentran en al lado del Input mencionado en el punto uno, y son de navegacion local.
-![Menu local.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Menu local.png)
+
+![Menu_local.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Menu_local.png)
 3. Botones + e imagen de perfil: Se encuentran del lado superior derecho de la pagina y son de NAvegacion local.
-![more profile.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\more profile.png)
+
+![more_profile.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\more_profile.png)
 4. Opciones Browse activity y Discover repositories: Son de navegacion Facetada. Al seleccionar "Discover repositories" se encuentra la navegacion Suplementaria para sugerirte un uso adecuado de la seccion, ademas que se encuentra inline la invitacion en Explorar más (Explore).Acontinuacion despues de este aparece la navegacion contextual que te brinda reomendaciones de repositorios.
-![Browse activity Discover reporitories.png](Browse activity Discover reporitories.png)
+
+![Browse_activity_Discover_reporitories.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Browse_activity_Discover_reporitories.png)
 5. Your repositories (Find a repository). Navegacion local y debajo del input Find a repositories navegacion facetada, justo debajo de estas opciones navegacion contextual. Esta seccion es de elementos conocidos.
-![Your repositories.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Your repositories.png)
+
+![Your_repositories.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Your_repositories.png)
 
 
-[SKETCH_Laboratoria.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\SKETCH_Laboratoria.png)
+![SKETCH_Laboratoria.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\SKETCH_Laboratoria.png)
