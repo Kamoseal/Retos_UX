@@ -13,14 +13,14 @@
   UX formalidad y ecuanimidad, en el boton de Facebook nos indica los seguidores que tiene la pagina, brinda confiabilidad el saber que tiene ya audiencia que los sigue. Los enlaces son para publicar la pagina en tus redes sociales.
 4. UI  Flecha blanca reforzando la transparencia, confiabilidad. UX Llama a la accion de seguir viendo de que trata <Laboratoria>.
 
-## Call to action: Motiva la visista para realizar alguna acción:
+## Call to action: Motiva la visista para realizar alguna acción
 1. UI POSTULA, mismo color que logo <Laboratoria> tipografia monoespaciada serif. UX Te indica la accion que quiere que ejecutes.
 2. UI Cambio de color para brindar informacion diferente a la acción. UX Con leer poco se entiende que enseña <Laboratoria> brindandote una opccion para estudiar y otra para trabajar. Para la intencion que tiene el programa ya que lo estudio creo que la frase podria mejorar en "Aprende a programar y te conseguimos trabajo en el mundo TECH" la palabra consigue es individual, conseguimos colectivo, alguien mas me ayuda, alguien mas me coloca cuando termine, puede invitar a seguir leeyendo.
 3. UI tipografia mas tenue para dar importancia a titulo o accion que queremos del usuraio, la informacion general. UX LA informacion es breve, es consiza, sin embargo la gramatica puede mejorar.
 4. UX Boton que llama a la accion o refuerza la accion de "Comienza tu postulación" UI colores de <Laboratoria>.
 5. En fixed los botones para publicar y hacer publicidad a <Laboratoria> por las redes sociales antes mencionadas.
 
-## Informacion adicional:
+## Informacion adicional
 1. UI- Imagen de ex-alumna con cita, tipografia blanca y resaltando su nombre. UX para alguien que esta ageno a la tecnologia Charbot pudiera tener una navegacion inline.
 2. UI-UX botones fixed para publicar y hacer publicidad .
 
@@ -28,7 +28,7 @@
 1. UX Informa sobre el talento TECH que brinda <Laboratoria>, tipografia de sección color laboratoria, invita accion "Contrata a nuestras egresadas" color negro (UX formalidad) monoespaciada serif. UX La informacion es general de como puede ser su seleccion  del talento especificando que son mujeres jovenes, la confiabilidad de satisfaccion 4.5/5 y cuantas empresas ya han confiado en <Laboratoria>. UI Tipografia sutil a para diferenciar seccion, accion y resumen.
 2. UX Boton que llama a la accion "Conoce nuestro talento" UI siguiendo la misma imagen de invitar accion, colores de <Laboratoria> rectangulo.
 
-## Referencias de clientes y otros:
+## Referencias de clientes y otros
 Referencia:
 1. UX Imagen profesional quehace sentir que es un conferencista, importancia, seguridad,  formalidad, reflexion, reto, rectitud. Cita refuerza la imagen brindando confiabilidad por <Laboratoria> con el puls de ser de otro pais, eso hace ver que esto es GLOBAL. UI se respetan las mismas 3 reglas de tipografia que maneja en las secciones donde hay cita.
 Entrenamiento corporativo:
@@ -49,11 +49,15 @@ Referencia:
 
 Elementos de navegacion:
 1. Input Search GitHub : Se encuentra a un costado derecho del logotipo de GitHub y es de navegacion Global, ya que puedes acceder a las diferentes opciones que te brinda el site.
+![Search GitHub.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Search GitHub.png)
 2. Botones Pull requests, Issuees, Marketplace y Explore: Se encuentran en al lado del Input mencionado en el punto uno, y son de navegacion local.
+![Menu local.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Menu local.png)
 3. Botones + e imagen de perfil: Se encuentran del lado superior derecho de la pagina y son de NAvegacion local.
+![more profile.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\more profile.png)
 4. Opciones Browse activity y Discover repositories: Son de navegacion Facetada. Al seleccionar "Discover repositories" se encuentra la navegacion Suplementaria para sugerirte un uso adecuado de la seccion, ademas que se encuentra inline la invitacion en Explorar más (Explore).Acontinuacion despues de este aparece la navegacion contextual que te brinda reomendaciones de repositorios.
+![Browse activity Discover reporitories.png](Browse activity Discover reporitories.png)
 5. Your repositories (Find a repository). Navegacion local y debajo del input Find a repositories navegacion facetada, justo debajo de estas opciones navegacion contextual. Esta seccion es de elementos conocidos.
+![Your repositories.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\Your repositories.png)
 
 
-
-[SKETCH_Laboratoria.png](SKETCH_Laboratoria.png)
+[SKETCH_Laboratoria.png](C:\Users\Invitado Laboratoria\Documents\Laboratoria\Retos_UX\assets\images\SKETCH_Laboratoria.png)
