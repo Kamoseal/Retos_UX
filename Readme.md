@@ -1,4 +1,4 @@
-#Laboratoria UX-UI
+# Laboratoria UX-UI
 ## La parte superior contiene 3 botones (Menu de navegacion Local).
 1. UX Estudiante: En esta experiencia el usuario puede confundirse, ya que esto parece que es para personas que ya estudian en <Laboratoria>, sin embargo el enlace nos envia a postularse.
 2. UX - UI Laboratoria: se encuentra centrado, da la experiencia de ecuanimidad y equilibrio dentro del logo.
